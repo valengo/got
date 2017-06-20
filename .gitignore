@@ -1,0 +1,14 @@
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Content/InfinityBladeGrassLands
+Content/InfinityBladeIceLands
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
