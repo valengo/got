@@ -8,6 +8,11 @@ Infinity Blade: Ice Lands
 Note that these assets are not include in this project. You'll need to add them from the marketplace.
 
 Background song:
+
 Myst on the Moor Kevin MacLeod (incompetech.com)
+
 Licensed under Creative Commons: By Attribution 3.0 License
+
 http://creativecommons.org/licenses/by/3.0/
+
+Sound effects were taken from: https://github.com/soulmapp/TappyBird2D
